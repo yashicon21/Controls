@@ -1,3 +1,4 @@
+<!-- Ankorline: placeholder fix applied -->
 # Q-CTRL Controls React Example  
 
 Q-CTRL Controls React Example is a example [React](https://reactjs.org/) project showing list of controls which users can select to edit and save.
