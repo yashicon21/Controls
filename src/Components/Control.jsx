@@ -49,7 +49,7 @@ export default ({ id }) => {
       setHasError(false);
       axios
         .put(`${process.env.REACT_APP_MOACKAPI_URL}/controls/${id}`, {
-          type: "controls",
+          type: "control",
           id,
           attributes: {
             name,
