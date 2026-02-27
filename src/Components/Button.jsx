@@ -1,3 +1,4 @@
+/* Hello World */
 import React from "react";
 
 export default ({ children, disabled = false, onClick, type, value, className = "", Component = "button" }) => (
